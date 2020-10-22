@@ -1,0 +1,26 @@
+h1{
+    color: red;
+}
+#top{
+    width: 50%;
+    color: blueviolet;
+    border-style: dotted;
+    border-color: yellow;
+    margin-left: 20%;
+    padding-left: 25%;
+    margin-top: 20px;
+
+}
+#bottom{
+    width: 50%;
+    color:green;
+    border-style: dashed;
+    border-color: black;
+    margin-left:20%;
+    margin-top: 10%;
+    margin-left: 20%;
+    padding-left: 25%;
+}
+h3{
+    font-family: 'Ranchers', cursive;
+}

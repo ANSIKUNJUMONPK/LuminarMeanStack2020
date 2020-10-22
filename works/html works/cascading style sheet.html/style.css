@@ -1,0 +1,31 @@
+h1{
+    color: blueviolet;
+}
+
+body{
+    background-color: rgb(233, 245, 66);
+}
+h2{
+    color: #51f542 ;}
+    #one{
+        color: orangered;
+    }
+    div{
+        border-style:dotted;
+        border-color: rgb(15, 8, 2);
+    }
+    #second{
+        border-style: dashed;
+        border-color: purple;
+    }
+    .third{
+        border-style: dotted;
+        border-color: blue;
+        background-color: gold;
+    }
+    li{
+        color: deeppink;
+    }
+    #lione{
+        color:brown;
+    }
